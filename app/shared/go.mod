@@ -1,6 +1,6 @@
 module shared
 
-go 1.21.3
+go 1.25.0
 
 require (
 	github.com/davecgh/go-spew v1.1.1
@@ -17,5 +17,5 @@ require (
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/sashabaranov/go-openai v1.24.0
-	golang.org/x/image v0.17.0
+	golang.org/x/image v0.41.0
 )
